@@ -87,3 +87,38 @@ The wireframe presented here is a **High-Fidelity Wireframe**, as it includes a 
 It demonstrates specific design elements such as spacing, alignment, and interface components, providing clear guidance for developers during implementation.
 
 ---
+
+---
+
+## 🧠 Popular Wireframing Tools
+There are several tools available for creating wireframes, each offering unique features and levels of fidelity. These tools help designers visualize layouts, collaborate with team members, and test user flows efficiently.
+
+### ✏️ Common Wireframing Tools
+- **Figma** – A web-based, collaborative design tool ideal for wireframing and prototyping.  
+- **Adobe XD** – Provides powerful vector-based design and prototyping capabilities.  
+- **Sketch** – Popular among Mac users for creating high-fidelity wireframes and UI components.  
+- **Balsamiq** – Great for creating low-fidelity, hand-drawn-style wireframes quickly.  
+- **Axure RP** – Advanced tool that supports complex interactions and dynamic content for detailed wireframes.  
+
+---
+
+## ⭐ Recommended Tool: Figma
+**Figma** stands out as one of the most widely used tools for wireframing and UI/UX design due to its **cloud-based collaboration** and **real-time editing** capabilities.
+
+### 🔍 Key Features of Figma
+- **Real-Time Collaboration:** Multiple designers and developers can work on the same project simultaneously.  
+- **Component Reusability:** Allows users to create and reuse design components for consistency across pages.  
+- **Prototyping:** Lets designers turn wireframes into interactive prototypes without switching tools.  
+- **Version Control:** Automatically saves progress and maintains version history for easy tracking.  
+- **Accessibility:** Runs entirely in the browser, so no installation is required.
+
+### 💡 Why Figma is Useful for Wireframing
+Figma simplifies the wireframing process by allowing teams to:
+- Create quick **low-fidelity** sketches or detailed **high-fidelity** wireframes.  
+- **Collaborate seamlessly** with other designers, developers, and stakeholders.  
+- **Preview designs interactively** to test user flow before implementation.  
+- **Export assets easily** for frontend development, reducing communication gaps.
+
+Figma bridges the gap between design and development, making it an essential tool in modern software development workflows.
+
+---
