@@ -38,4 +38,23 @@ Without visual distractions, wireframes help focus attention on usability, inter
 
 ---
 
+## 🧩 Key Elements of a Wireframe
+Wireframes contain several essential components that help shape how users interact with a digital product. Each element contributes to the usability, flow, and structure of the design.
 
+### 1. **Layout Structure**
+Defines the overall arrangement of elements on a page — such as headers, sidebars, footers, and content areas.  
+**Example:** A typical website layout may include a fixed header for navigation, a central content area for articles, and a sidebar for recent posts or ads. This structure ensures visual balance and guides users’ attention.
+
+### 2. **Navigation**
+Shows how users will move through the website or application, including menus, buttons, and links.  
+**Example:** A top navigation bar with “Home,” “About,” and “Contact” links allows users to easily access key sections. A mobile app may include a bottom tab bar for quick access to main features.
+
+### 3. **Content Placement**
+Indicates where text, images, and other content will appear on the page. It helps prioritize information and maintain consistency across screens.  
+**Example:** On a product page, placing the product image on the left and the description and “Add to Cart” button on the right creates a clear visual flow and encourages user action.
+
+### 4. **Functionality**
+Outlines key interactive elements that demonstrate how users will engage with the design — such as forms, buttons, dropdowns, or search fields.  
+**Example:** Including a search bar at the top of a website allows users to find content quickly, improving usability and user satisfaction.
+
+---
