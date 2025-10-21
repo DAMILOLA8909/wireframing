@@ -88,8 +88,6 @@ It demonstrates specific design elements such as spacing, alignment, and interfa
 
 ---
 
----
-
 ## 🧠 Popular Wireframing Tools
 There are several tools available for creating wireframes, each offering unique features and levels of fidelity. These tools help designers visualize layouts, collaborate with team members, and test user flows efficiently.
 
@@ -134,7 +132,6 @@ They outline how different screens, elements, and features will interact, making
 **Example:**  
 A wireframe of a “Booking Checkout” page can show where the payment button, booking details, and confirmation message should appear. Developers can then use this layout to structure the code logically, ensuring that all required elements are included.
 
----
 
 ### 💬 2. Facilitates Communication and Collaboration
 Wireframes serve as a **common reference point** for all project stakeholders — including designers, developers, and clients.  
@@ -143,7 +140,6 @@ They make it easier to discuss layout decisions, functionality, and user flow wi
 **Example:**  
 When a UI/UX designer presents a wireframe of a “User Dashboard,” the developer can instantly understand how navigation should function and where user data will be displayed. This shared visual understanding reduces confusion and improves collaboration between teams.
 
----
 
 ### ⚙️ 3. Saves Time and Resources
 Creating wireframes early in the process helps identify potential issues before development begins. This prevents rework and reduces the need for major design revisions during the coding stage.  
@@ -152,7 +148,6 @@ It’s far cheaper and faster to modify a wireframe than to refactor a fully dev
 **Example:**  
 If stakeholders decide to add a new “Filter by Date” option to a booking page, it’s easier to adjust this in a wireframe than after the UI has already been coded.
 
----
 
 ### 🧩 4. Enhances User Experience and Functionality
 Wireframes allow designers and developers to focus on **usability and interaction flow** before styling the interface.  
@@ -161,7 +156,6 @@ By emphasizing structure and functionality first, teams can ensure that the fina
 **Example:**  
 Testing a low-fidelity wireframe of a sign-up page can reveal whether users easily locate the “Submit” button or understand the input field labels before the visual design phase begins.
 
----
 
 ### 🧠 Summary
 From a software development perspective, **wireframing ensures alignment, saves time, and promotes collaboration**.  
@@ -169,3 +163,38 @@ It transforms conceptual ideas into actionable blueprints that guide developers,
 
 ---
 
+## 🌍 Real-World Scenario: Wireframing Preventing Usability Issues
+
+### 🧩 Scenario Overview
+During the design of an **online property booking system**, the UI/UX team created low-fidelity wireframes to visualize how users would search, view, and book properties.  
+The wireframes revealed an early **usability problem** — users found it confusing to differentiate between the “Book Now” and “Save for Later” buttons, which were positioned too closely together on the same page.
+
+### ⚠️ Identified Usability Issue
+In usability testing sessions with the wireframe prototype, several users mistakenly clicked “Book Now” when they intended to “Save” a property.  
+This indicated that the **button placement and labeling** could lead to accidental bookings in the live application, creating a frustrating user experience.
+
+### 🛠️ How the Issue Was Resolved
+Because the issue was detected at the wireframing stage, the design team was able to:
+- **Reposition the buttons** by separating “Book Now” and “Save for Later” into distinct sections of the page.  
+- **Use clear visual hierarchy** and color contrast to make their purposes more distinguishable.  
+- **Test the updated wireframe** again with users, confirming that they could now complete actions without confusion.
+
+This adjustment took only a few minutes in Figma, whereas fixing it post-development would have required significant time and code refactoring.
+
+### 💡 Impact on the Final Product
+When the final product was released:
+- Users reported **smoother navigation** and **fewer accidental clicks**.  
+- The development team faced **fewer change requests** since layout issues had already been resolved during wireframing.  
+- The overall design was **more intuitive**, leading to higher user satisfaction and better adoption rates.
+
+
+## 🧭 Conclusion
+This scenario highlights how **wireframing acts as an early safety net** in the design and development process.  
+By identifying usability issues before implementation, teams can:
+- Avoid costly redesigns  
+- Ensure better communication between designers and developers  
+- Deliver a more **intuitive, user-friendly product**
+
+Wireframing is not just a preliminary step — it is a **critical foundation** that ensures the final product aligns with user needs, design intent, and project goals.
+
+---
