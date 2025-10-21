@@ -58,3 +58,32 @@ Outlines key interactive elements that demonstrate how users will engage with th
 **Example:** Including a search bar at the top of a website allows users to find content quickly, improving usability and user satisfaction.
 
 ---
+
+## 🎨 Types of Wireframes
+Wireframes are generally categorized into **Low-Fidelity** and **High-Fidelity** types. Each serves a specific purpose in the design process and is used at different stages of development.
+
+### 🧱 Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, rough sketches that focus on layout, structure, and functionality rather than detailed design. They often use placeholders for images and text and are created early in the design process to explore multiple layout ideas quickly.  
+**When to Use:**  
+- During the early brainstorming or conceptualization phase  
+- When testing different layout ideas and content hierarchy  
+- To facilitate quick feedback and iteration  
+
+**Example:** A hand-drawn sketch showing page sections labeled “Header,” “Main Content,” and “Footer” without colors or detailed visuals.
+
+### 🧩 High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and polished, closely resembling the final product. They include accurate spacing, typography, button placements, and sometimes even color or images to demonstrate the final layout more precisely.  
+**When to Use:**  
+- In later design stages, after the structure has been validated  
+- When presenting designs to stakeholders or developers  
+- To define final UI elements and interactions  
+
+**Example:** A digital layout created in Figma showing buttons, icons, and sample text with accurate proportions and alignment.
+
+---
+
+## 🖼️ Type of Wireframe Shown Below
+The wireframe presented here is a **High-Fidelity Wireframe**, as it includes a detailed and visually accurate layout that closely resembles the final design.  
+It demonstrates specific design elements such as spacing, alignment, and interface components, providing clear guidance for developers during implementation.
+
+---
